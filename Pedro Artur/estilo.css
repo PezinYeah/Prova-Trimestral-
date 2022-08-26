@@ -1,0 +1,144 @@
+body{
+  background-color: rgb(15, 20, 94);
+  margin: 0;
+  font-family: Arial;
+}
+
+
+
+header h1{
+  color: rgb(205, 211, 224);
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: azure;
+  
+}
+
+
+
+li a{
+  color: rgb(229, 225, 233);
+  text-decoration: none;
+  background-color: rgb(224, 206, 206);
+  border-radius: 20px;
+  padding: 0.5rem;
+}
+
+li a:hover{
+  background-color: rgb(191, 196, 218);
+}
+
+ul li{
+  padding: 1rem;
+  list-style: none;
+}
+
+nav ul{
+  padding: 0;
+  display: flex;
+}
+
+.container{
+  margin-top: 2rem;
+  margin: auto;
+  max-width: 60%;
+  background-color: rgba(168, 123, 211, 0.863);
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  border-radius: 30px;
+  font-size: 25px;
+}
+
+.container h3{
+  text-align: center;
+  color: rgb(207, 210, 216);
+  font-family: cursive;
+  color: rgb(206, 188, 223);
+  
+}
+
+.container input{
+  margin-bottom: 0.5rem;
+  border: 2px solid rgb(224, 215, 230);
+  border-radius: 5px;
+  padding: 0.5rem;
+  outline: none;
+  width: 900px;
+  text-align: center;
+  align-items: center;
+}
+
+.container input:hover{
+  background-color: rgb(196, 156, 223);
+}
+
+.container button{
+  background-color: rgb(212, 186, 223);
+  color: rgb(222, 204, 230);
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 30px;
+  cursor: pointer;
+  border-color: rgb(172, 16, 219);
+  width: 920px;
+  
+  
+  
+ 
+  
+}
+
+.container button:hover{
+  background-color: rgb(147, 19, 221);
+}
+
+.container tr{
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(140, 12, 214);
+  color: rgb(142, 10, 219);
+  
+}
+.container button{
+  background-color: rgb(92, 8, 117);
+  color: rgb(221, 224, 231);
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 25px;
+  cursor: pointer;
+  border-color: rgb(221, 207, 233);
+  
+  
+  
+  
+
+  }
+  .container input{
+    margin-bottom: 0.5rem;
+    border: 2px solid rgb(44, 13, 156);
+    border-radius: 5px;
+    padding: 0.5rem;
+    outline: none;
+    width: 900px;
+    text-align: center;
+    align-items: center;
+  
+  }
+  body {
+    background: linear-gradient(#520a59, #70148c, #340a3f, #cc24db) fixed;
+}
+
+.result{
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  width: 400px;
+  border-radius: 10px;
+  padding: 0.6rem;
+  text-align: center;
+}
+  
